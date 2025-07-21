@@ -1,16 +1,21 @@
-## Hi there 👋
+                                                                                                                                      # Hi, I'm Sakey 👋
 
-<!--
-**sakey01/sakey01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer and JavaScript enthusiast focused on building fun and interactive projects like games and web apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I do
+
+- 💻 Building web games and interactive front-end experiences
+- 🎯 Learning new JavaScript techniques and best practices
+- 📚 Exploring UI/UX design and responsive layouts
+
+---
+
+### ⚡ Fun fact
+
+I love turning ideas into working code — and I never stop learning!
+
+---
+
+Thanks for stopping by! Feel free to check out my pinned projects below.

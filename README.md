@@ -10,7 +10,7 @@ I'm a 3rd year computer science student and passionate web developer and JavaScr
 - 🎯 Learning new JavaScript techniques and best practices
 - 📚 Exploring UI/UX design and responsive layouts
 
-Check out my [GitHub](https://sheikh-portfolio.vercel.app)
+Check out my [coding portfolio](https://sheikh-portfolio.vercel.app)
 
 ---
 

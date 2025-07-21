@@ -1,4 +1,4 @@
-                                                                                                                                      # Hi, I'm Sakey 👋
+# Hi, I'm Sakey 👋
 
 I'm a passionate web developer and JavaScript enthusiast focused on building fun and interactive projects like games and web apps.
 

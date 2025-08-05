@@ -2,7 +2,7 @@
 
 I'm [Sheikh](https://sheikh-portfolio.vercel.app) a 3rd year computer science student based in the UK.
 
-I code becuase it's satisying watching my ideas tranform into real things.
+I code becuase I like watching my ideas tranform into real things.
 
 ### What I'm up to
 

@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm [Sheikh](https://sheikh-portfolio.vercel.app) a 3rd year computer science student based in the UK.
+I'm [Sheikh](https://sheikh-ahm.vercel.app) a 3rd year computer science student based in the UK.
 
 I code becuase I like watching my ideas tranform into real things.
 
